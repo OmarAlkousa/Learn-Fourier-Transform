@@ -1,6 +1,6 @@
 Digital signal processing (DSP) is the computation of mathematical methods used to manipulate signal data [**[1]**](https://doi.org/10.1016/B978-0-08-097768-3.00011-8). One of the most important tools in digital signal processing is the Discrete Fourier Transform (DFT). It is usually used to produce a signal's frequency-domain (spectral) representation [**[2]**](https://doi.org/10.1016/B978-0-08-099388-1.00003-0).
 
-# Understanding Discrete Fourier Transform (DFT) [**[Code]**](https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/0aa07f1f7a792f38418c2c637f07dce1ddfdbf81/Understanding%20Discrete%20Fourier%20Transform%20(DFT)/Understanding_Discrete_Fourier_Transform_(DFT).ipynb)
+## Understanding Discrete Fourier Transform (DFT) [**[Code]**](https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/c4fae6a65d3233d62b9e45d1c0cf730f3bea5753/Understanding%20Discrete%20Fourier%20Transform%20(DFT)/Learning_Discrete_Fourier_Transform_(DFT).ipynb) [**[Towards Data Science]**](https://medium.com/towards-data-science/learn-discrete-fourier-transform-dft-9f7a2df4bfe9)
 
 In this notebook, we will discuss how DFT works and how to implement it to output the spectrum of the signals. The functions we've built in this notebook are under MIT License and all credits go to the authors of [this book](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html). The figures below are the signal we want to analyze its spectrum, which is represented on the right below. Also, we discussed the Inverse Discrete Fourier Transform in the notebook.
 
@@ -9,7 +9,7 @@ In this notebook, we will discuss how DFT works and how to implement it to outpu
   <img src="https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/0aa07f1f7a792f38418c2c637f07dce1ddfdbf81/Understanding%20Discrete%20Fourier%20Transform%20(DFT)/first%20side%20DFT.png", width="350">
 </p>
 
-# Acknowledgment:
+## Acknowledgment:
 [**[1]**](https://doi.org/10.1016/B978-0-08-097768-3.00011-8) R. Toulson, R., & Wilmshurst, T. (2012). An Introduction to Digital Signal Processing. *Fast and Effective Embedded Systems Design* (pp. 219–242). Elsevier. https://doi.org/10.1016/B978-0-08-097768-3.00011-8
 
 [**[2]**](https://doi.org/10.1016/B978-0-08-099388-1.00003-0) T. Giannakopoulos, T., & Pikrakis, A. (2014). Signal Transforms and Filtering Essentials. *Introduction to Audio Analysis* (pp. 33–57). Elsevier. https://doi.org/10.1016/B978-0-08-099388-1.00003-0
