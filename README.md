@@ -19,7 +19,7 @@ The figure below is a glimpse of what we will learn in this notebook.
   <img src="https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/10bf85f103dd71e86659ae6ac78f772289ea0ccd/Fourier%20Transform,%20the%20Practical%20Python%20Implementation/Spectrum%20for%20%20real-value%20signal%20data.png", width="400">
 </p>
 
-The image below represents the Fourier class we build in this notebook (An ECG signal and its Frequency Spectrum). The use of the Plotly package allows you to hover over the values of the plot and zoom in/out on the interesting parts so easily.
+The image below represents an example of using the Fourier class we built in this notebook (An ECG signal and its Frequency Spectrum). The use of the Plotly package allows you to hover over the values of the plot and zoom in/out on the interesting parts so easily.
 
 <p align="center">
   <img src="https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/ed0892eb876796ec51339b371c153a3ddd831499/Fourier%20Transform%2C%20the%20Practical%20Python%20Implementation/ECG%20Time-Frequency%20Domains.gif", width="800">
