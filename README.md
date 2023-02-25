@@ -21,7 +21,9 @@ The figure below is a glimpse of what we will learn in this notebook.
 
 The image below represents the Fourier class we build in this notebook (An ECG signal and its Frequency Spectrum). The use of the Plotly package allows you to hover over the values of the plot and zoom in/out on the interesting parts so easily.
 
-
+<p align="center">
+  <img src="https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/ed0892eb876796ec51339b371c153a3ddd831499/Fourier%20Transform%2C%20the%20Practical%20Python%20Implementation/ECG%20Time-Frequency%20Domains.gif", width="800">
+</p>
 
 ## Acknowledgment:
 [**[1]**](https://doi.org/10.1016/B978-0-08-097768-3.00011-8) R. Toulson, R., & Wilmshurst, T. (2012). An Introduction to Digital Signal Processing. *Fast and Effective Embedded Systems Design* (pp. 219–242). Elsevier. https://doi.org/10.1016/B978-0-08-097768-3.00011-8
