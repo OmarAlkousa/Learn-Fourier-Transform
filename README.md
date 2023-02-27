@@ -9,7 +9,7 @@ In this notebook, we will discuss how DFT works and how to implement it to outpu
   <img src="https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/0aa07f1f7a792f38418c2c637f07dce1ddfdbf81/Understanding%20Discrete%20Fourier%20Transform%20(DFT)/first%20side%20DFT.png", width="350">
 </p>
 
-## Fourier Transform, the Practical Python Implementation [**[Code]**](https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/10bf85f103dd71e86659ae6ac78f772289ea0ccd/Fourier%20Transform,%20the%20Practical%20Python%20Implementation/Fourier_Transform,_the_Practical_Python_Implementation.ipynb)
+## Fourier Transform, the Practical Python Implementation [**[Code]**](https://github.com/OmarAlkousa/Learn-Fourier-Transform/blob/10bf85f103dd71e86659ae6ac78f772289ea0ccd/Fourier%20Transform,%20the%20Practical%20Python%20Implementation/Fourier_Transform,_the_Practical_Python_Implementation.ipynb) [**[Towards Data Science]**](https://towardsdatascience.com/fourier-transform-the-practical-python-implementation-acdd32f1b96a)
 
 The **Fast Fourier Transform (FFT)** is the practical implementation of the Fourier Transform on Digital Signals. FFT is considered one of the top 10 algorithms with the greatest impact on science and engineering in the 20th century [**[8]**](https://doi.ieeecomputersociety.org/10.1109/MCISE.2000.814652). In this notebook, a practical approach to FFT has been discussed as how to use it to represent the frequency domain (spectrum) of the signal data and plot the spectrum using **Plotly** to give us more interactivity and a better understanding of the features in the spectrum. By the end of this notebook, we'll build a class to analyze the signal. **An ECG signal and its spectrum have been provided as a final example**.
 
